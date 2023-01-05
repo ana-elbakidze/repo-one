@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RWD</title>
+  </head>
+<body>
+  <h1>RWD - Responsive Web Design</h1>
+  <br>
+  <p class="first"><b>How to create a Responsive Website</b></p>
+  <ul>
+  <li>Set Appropriate Responsive Breakpoints</li>
+  <li>Start with a Fluid Grid</li>
+  <li>Take touchscreens into consideration</li>
+  <li>Define Typography</li>
+  <li>Use a pre-designed theme or layout to save time</li>
+  <li>Test Responsiveness on Real Devices</li>
+  </ul>
+  <br><br><br>
+  <p class="second">Here you can see <a href="https://www.packtpub.com/product/10-mega-responsive-websites-with-html-css-and-javascript-video/9781801073578">10 Mega Responsive Websites with HTML, CSS, and JavaScript</a>
+    <br><br><br>
+  <h2>Front-End vs Back-End</h2>
+  <table class="info-table" border="1">
+    <thead>
+      <tr>
+        <th>Front-End</th>
+        <th>Back-End</th>
+      </tr>
+      </thead>
+    <tbody>
+      <tr>
+    <td>Markup and web languages such as HTML, CSS and Javascript</td>
+    <td>Programming and scripting such as Python, Ruby and/or Perl</td>
+    </tr>
+      <tr>
+      <td>Asynchronous requests and Ajax</td>
+      <td>Server architecture</td>
+        </tr>
+      <tr>
+        <td>Specialized web editing software</td>
+        <td>Database administration</td>
+        </tr>
+      <tr>
+        <td>Image editing</td>
+        <td>Scalability</td>
+        </tr>
+      <tr>
+        <td>Accessibility</td>
+        <td>Security</td>
+        </tr>
+      <tr>
+        <td>Cross-browser issues</td>
+        <td>Data transformation</td>
+        </tr>
+      <tr>
+        <td>Search engine optimisation</td>
+        <td>Backup</td>
+        </tr>
+    </tbody>
+    </table>
+  </body>
+  </html>
